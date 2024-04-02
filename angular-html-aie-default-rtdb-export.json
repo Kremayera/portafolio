@@ -1,0 +1,32 @@
+{
+  "equipo": [
+    {
+      "frase": "Alumno curso de desarrollo angular",
+      "nombre": "Adolfo Iglesias",
+      "subtitulo": "Angular Developer",
+      "twitter": "aIglesias",
+      "url": "https://firebasestorage.googleapis.com/v0/b/angular-html-aie.appspot.com/o/team-1.jpg?alt=media&token=72873c04-4548-46f1-8d0c-55aba1a9f6cd"
+    },
+    {
+      "frase": "Especialista en desarrollos de prueba",
+      "nombre": "Salvadora Gomez",
+      "subtitulo": "Infeniera",
+      "twitter": "SalvadoraG",
+      "url": "https://firebasestorage.googleapis.com/v0/b/angular-html-aie.appspot.com/o/team-2.jpg?alt=media&token=7142ce78-acde-4e5e-86bb-25448e7983d8"
+    },
+    {
+      "frase": "asdfasdf",
+      "nombre": "fasfdasdf",
+      "subtitulo": "asdfasdf",
+      "twitter": "fasdf sd asdf asd sad",
+      "url": "https://firebasestorage.googleapis.com/v0/b/angular-html-aie.appspot.com/o/team-3.jpg?alt=media&token=825bfd08-352c-4f60-a8ce-983905f14a0c"
+    },
+    {
+      "frase": "Prueba de desarrollo",
+      "nombre": "Alberta Serrador",
+      "subtitulo": "Angular documentator",
+      "twitter": "ASerrada",
+      "url": "https://firebasestorage.googleapis.com/v0/b/angular-html-aie.appspot.com/o/team-2.jpg?alt=media&token=7142ce78-acde-4e5e-86bb-25448e7983d8"
+    }
+  ]
+}
